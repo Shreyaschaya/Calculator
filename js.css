@@ -1,0 +1,66 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: azure;
+}
+.cl{
+    width: 95%;
+    background-color: azure;
+    border-radius: 5px;
+}
+form{
+
+    width: 220px;
+    justify-content: space-between;
+    align-content: center;
+  
+    border-radius: 20px;
+
+
+    height: 200px;
+    background-color: rgba(35, 84, 121, 0.434);
+}
+div{
+margin: 6px 0px;
+    justify-content:space-around;
+    align-content: center;
+   
+    align-items: center;
+}
+.dis{
+   
+    justify-content: center;
+    align-items: center;
+}
+
+.in
+ {
+    background-color: rgb(51, 101, 104);
+    width: 50px;
+    border-radius: 15px;
+}
+.in:hover{
+   scale: 0.8;
+   background-color: rgb(239, 233, 233);
+}
+.oper
+ {
+    background-color: rgb(189, 168, 110);
+    width: 50px;
+    border-radius: 15px;
+}
+.oper:hover{
+   scale: 0.8;
+   background-color: rgb(255, 255, 255);
+}
+.eqoper{
+    background-color: rgb(150, 232, 68);
+    border-radius: 15px;
+    width: 100px;
+    
+}
+.eqoper:hover{
+    scale: 0.8;
+    background-color: gray;
+ }
